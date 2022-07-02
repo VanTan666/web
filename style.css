@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+h1 {
+    text-align: center;
+}
+
+.img {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+fieldset {
+    margin-top: 50px;
+    
+}
+
+h3 {
+    margin-left: 10px;
+}
+
+textarea {
+    width: 400px;
+    height: 160px;
+}
+
+.form {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #affffc;
+    display: block;
+    
+    padding: 10px;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+.mega-title {
+    font-size: 800px;
+}
+
+
+.comment {
+    background-color: #bcbcbc;
+    border: 1px black solid;
+}
+
+table {
+    width: 100%;
+    border: 1px solid black;
+}
+tr, td, table {
+    border: 1px solid black;
+    margin: 0;
+}
+
+.btn {
+    font-family: sans-serif;
+    transition: font-family 0,5s linear;
+}
+
+.btn:hover {
+    font-family: monospace;
+}
